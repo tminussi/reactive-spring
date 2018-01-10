@@ -1,6 +1,5 @@
 package com.javaonthecloud.movie.service;
 
-import com.javaonthecloud.movie.exception.MovieException;
 import com.javaonthecloud.movie.model.Movie;
 import com.javaonthecloud.movie.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
